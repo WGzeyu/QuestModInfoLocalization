@@ -12,7 +12,10 @@
 | SongBrowser | 歌曲排序、筛选，并显示PP、难度等数据（兼容性差，可能导致游戏闪退无法打开） |
 | ScoreSaber | 数据量很大的跨平台排行榜，下载地址：https://scoresaber.com/quest |
 | BeatLeader | 数据量较小的跨平台排行榜，开源，需要进入Mod设置注册并登录BL账号 |
-| Qosmetics | 支持更换光剑、方块、墙壁模型的Mod |
+| Qosmetics | 支持更换光剑、方块、墙壁模型的Mod（旧） |
+| QosmeticsWhackers | 支持更换光剑模型的Mod（新） |
+| QosmeticsCyoobs | 支持更换方块模型的Mod（新） |
+| QosmeticsBoxes | 支持更换墙壁模型的Mod（新） |
 | ThinSabers | 细光剑Mod（不需要Qosmetics，这是一个独立Mod） |
 | BeatTogether | 用于支持通过第三方服务器联机 |
 | MultiplayerCore | 用于支持自定义歌曲联机，支持自动下载歌曲 |
@@ -42,3 +45,13 @@
 | Transitions | 删除了游戏启动时的癫痫警告，且可配置地减少切换场景耗时 |
 | StopForgettingMySettings | 别™忘了我的设置（防止你的覆盖默认环境设置在重启游戏后被重置） |
 | Promotion "Yeeter" | 广告屏蔽（删除主菜单中的促销曲包，还你一个干净的主菜单） |
+| ShortSaber | 用于修改光剑尺寸（厚度与长度） |
+| SmallQubes | 缩小方块显示尺寸（不兼容Qosmetics） |
+| SliceDetails | 可查看你在每个位置上的平均切割分数等分数详情信息 |
+| IntroSkip | 跳过较长的歌曲前奏与后奏 |
+| CustomMainMenu | 更改主菜单的按钮文本 |
+| Acculight | 根据你的最新成绩来决定选歌及成绩页面中的灯光颜色 |
+| RainbowQuest | 让各种东西彩虹化 |
+| RandomSongPicker | 随机选择一首歌曲 |
+| CrashReporter | 自动上传崩溃日志到https://analyzer.questmodding.com/crashes |
+| FullComboEffects | 修改全连时的成绩页面 |
