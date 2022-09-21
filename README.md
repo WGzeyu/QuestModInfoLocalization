@@ -67,7 +67,7 @@
 | Cheater'sAnxiety | 在每次暂停与恢复时玩俄罗斯轮盘赌，赌输将崩溃游戏 |
 | DiscordPresence | 为游戏添加Discord支持，让你的游戏状态可以显示到Discord |
 | FishUtils | 自动开关方块碎片、调整暂停后恢复时的等待时间、自定义暂停按钮及暂停确认 |
-| QustomBanners | 自定义横幅（保存在/Pictures/banners/） |
+| QustomBanners | 自定义横幅（保存在`/Pictures/banners/`） |
 | MRCPlus | 通过MRC将自定义相机画面传输到电脑，[点我进入教程](https://github.com/Raemien/MRCPlus/wiki/Getting-Started) |
 | SongDifficultyChart | 显示歌曲难度图表 |
 | FingerSaber | 手指光剑，用手势追踪玩光剑的Mod |
