@@ -20,7 +20,7 @@
 | BeatTogether | 用于支持通过第三方服务器联机 |
 | MultiplayerCore | 用于支持自定义歌曲联机，支持自动下载歌曲 |
 | ServerBrowser | 联机房间列表 |
-| AnyTweaks | 调整画质、分辨率与刷新率，还可以显示帧率 |
+| AnyTweaks(AikaTweaks) | 调整画质、分辨率与刷新率，还可以显示帧率 |
 | Qounters- | 计数器Mod，给游戏过程添加更多的信息显示 |
 | Chroma | 炫彩扩展，用于支持特殊的谱面效果（不要与ME同时安装，推荐与NE同时安装） |
 | NoodleExtensions | 面条扩展，用于支持特殊的谱面效果（不要与ME同时安装，推荐与Chroma同时安装） |
