@@ -8,9 +8,9 @@
 | playlistmanager | 用于加载分类歌单的Mod |
 | songdownloader | 在游戏内下载歌曲的Mod |
 | playerdatakeeper | 用于保留玩家数据（以防更新等原因丢失）的Mod |
-| PolyglotInject | 将更多语言注入到游戏中，让游戏支持显示为中文，下载地址：http://share.wgzeyu.vip/ |
+| PolyglotInject | 将更多语言注入到游戏中，让游戏支持显示为中文，[点我进入下载](http://share.wgzeyu.vip/) |
 | SongBrowser | 歌曲排序、筛选，并显示PP、难度等数据（兼容性差，可能导致游戏闪退无法打开） |
-| ScoreSaber | 数据量很大的跨平台排行榜，下载地址：https://scoresaber.com/quest |
+| ScoreSaber | 数据量很大的跨平台排行榜，[点我进入下载](https://scoresaber.com/quest) |
 | BeatLeader | 数据量较小的跨平台排行榜，开源，需要进入Mod设置注册并登录BL账号 |
 | Qosmetics | 支持更换光剑、方块、墙壁模型的Mod（旧） |
 | QosmeticsWhackers | 支持更换光剑模型的Mod（新） |
@@ -27,18 +27,18 @@
 | MappingExtensions　 | 谱面扩展，用于支持特殊的谱面效果（不要与NE或Chroma同时安装） |
 | Replay | 回放Mod |
 | SmoothedController | 在菜单中平滑手柄以减少抖动，使UI更易于使用 |
-| CrashMod | 可以通过各种触发方式使游戏崩溃，例如可以在开始游戏、出现失误、正确挥砍时崩溃你的游戏 |
+| CrashMod | 可以通过各种触发方式使游戏崩溃，例如可以在开始时、失误时、正确挥砍时崩溃你的游戏 |
 | ChatUI | 可以在游戏里看到Twitch直播的聊天内容 |
 | ThirdPerson(Play3rdPer) | 以第三人称视角进行游戏（用于视频录制） |
 | Redbar | 根据你的血量改变血槽颜色 |
-| StreamerTools | 通过覆盖界面增强你的BeatSaber直播（使用教程：https://github.com/EnderdracheLP/streamer-tools/wiki ） |
+| StreamerTools | 通过覆盖界面增强你的BeatSaber直播，[点我查看教程](https://github.com/EnderdracheLP/streamer-tools/wiki) |
 | SearchFixes | 似乎是用于增强搜索匹配算法的Mod，还可以按谱师名称搜索 |
 | SaberTailor | 为每只手进行独立的手柄设置（如位置/角度偏移等） |
 | CustomPillows | 你希望菜单中多一些🌶️吗？将您的抱枕添加至菜单中并编辑它们的纹理！ |
 | ImageCoverExpander | 在选择歌曲界面中扩大展示歌曲封面 |
 | DifficultySaver | 让你每次点开新歌都能自动选中设置的难度（无论上一次选的是哪个难度） |
 | FasterScroll | 可调滚动速度，让你更快地找到歌曲 |
-| QuestSounds | 自定义各种音效的Mod（音效存放位置：https://github.com/EnderdracheLP/QuestSounds/#features ） |
+| QuestSounds | 自定义各种音效的Mod，[点我查看存放位置](https://github.com/EnderdracheLP/QuestSounds/#features) |
 | ClockMod | 时钟 |
 | JDFixer | 用于更改方块出生距离、反应时间的Mod（相当于其他音游的调速） |
 | HitScoreVisualizer | 自定义砍中时弹出的分数文本样式 |
@@ -53,7 +53,7 @@
 | Acculight | 根据你的最新成绩来决定选歌及成绩页面中的灯光颜色 |
 | RainbowQuest | 让各种东西彩虹化 |
 | RandomSongPicker | 随机选择一首歌曲 |
-| CrashReporter | 自动上传崩溃日志到https://analyzer.questmodding.com/crashes |
+| CrashReporter | 自动上传崩溃日志到[analyzer.questmodding.com](https://analyzer.questmodding.com/crashes) |
 | FullComboEffects | 修改全连时的成绩页面 |
 | TrickSaber | 特技光剑，可以旋转或扔出光剑的Mod |
 | DebrisTweaks | 完全定制调整各种碎片参数 |
@@ -68,7 +68,7 @@
 | DiscordPresence | 为游戏添加Discord支持，让你的游戏状态可以显示到Discord |
 | FishUtils | 自动开关方块碎片、调整暂停后恢复时的等待时间、自定义暂停按钮及暂停确认 |
 | QustomBanners | 自定义横幅（保存在/Pictures/banners/） |
-| MRCPlus | 通过MRC将自定义相机画面传输到电脑，教程：https://github.com/Raemien/MRCPlus/wiki/Getting-Started |
+| MRCPlus | 通过MRC将自定义相机画面传输到电脑，[点我进入教程](https://github.com/Raemien/MRCPlus/wiki/Getting-Started) |
 | SongDifficultyChart | 显示歌曲难度图表 |
 | FingerSaber | 手指光剑，用手势追踪玩光剑的Mod |
 | darthmaul | 达斯摩尔，双头光剑 |
