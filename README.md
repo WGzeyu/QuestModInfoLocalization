@@ -75,3 +75,5 @@
 | QonsistentSaberColors | 将菜单中的手柄颜色调整为你在"覆盖默认颜色"中设置的颜色 |
 | FuckMaps | 让你尝试游玩BPM超出设定范围的歌曲时，崩溃你的游戏 |
 | AddedModifiers | 增加更多修改项到你的游戏 |
+| NoParticles | 可以禁用砍中时的粒子效果 |
+| NoMoreBeatSaber | **移除主菜单中所有可以用来开始游戏的按钮** |
