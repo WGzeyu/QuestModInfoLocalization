@@ -76,4 +76,4 @@
 | FuckMaps | 让你尝试游玩BPM超出设定范围的歌曲时，崩溃你的游戏 |
 | AddedModifiers | 增加更多修改项到你的游戏 |
 | NoParticles | 可以禁用砍中时的粒子效果 |
-| NoMoreBeatSaber | **移除主菜单中所有可以用来开始游戏的按钮** |
+| NoMoreBeatSaber | **删除主菜单中所有可以用来开始游戏的按钮**，恶搞Mod，不建议安装 |
