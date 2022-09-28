@@ -77,3 +77,6 @@
 | AddedModifiers | 增加更多修改项到你的游戏 |
 | NoParticles | 可以禁用砍中时的粒子效果 |
 | NoMoreBeatSaber | **删除主菜单中所有可以用来开始游戏的按钮**，恶搞Mod，不建议安装 |
+| ThiccMod | 减小方块与光剑的碰撞箱（将禁用分数提交，不兼容Qosmetics等Mod） |
+| QolourSwitcher | 可以在暂停菜单中更改方块颜色（需先打开自定义颜色） |
+| NoPlay | 可以禁用开始按钮的Mod，以防被朋友上传垃圾成绩或回放被覆盖 |
