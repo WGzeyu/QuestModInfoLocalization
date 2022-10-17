@@ -80,3 +80,9 @@
 | ThiccMod | 减小方块与光剑的碰撞箱（将禁用分数提交，不兼容Qosmetics等Mod） |
 | QolourSwitcher | 可以在暂停菜单中更改方块颜色（需先打开自定义颜色） |
 | NoPlay | 可以禁用开始按钮的Mod，以防被朋友上传垃圾成绩或回放被覆盖 |
+| BroYouReallyPaused? | 在暂停菜单下面显示文字（内容可在Mod设置中编辑） |
+| MoreByCore | 保留光剑戳地面留下的烧痕、屏蔽广告、游戏颜色、关粒子等功能 |
+| Nya | 显示各种动漫风格猫娘图片 |
+| BurnMarkTweaks | 烧痕调整 |
+| SimpleBeatmapPlayCount | 记录每首歌曲的游戏次数 |
+| SliceVisualizer | 在游戏区域上方显示画面，以查看挥砍准度 |
