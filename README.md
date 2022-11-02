@@ -86,3 +86,6 @@
 | BurnMarkTweaks | 烧痕调整 |
 | SimpleBeatmapPlayCount | 记录每首歌曲的游戏次数 |
 | SliceVisualizer | 在游戏区域上方显示画面，以查看挥砍准度 |
+| Adblock | 广告屏蔽（移除促销曲包按钮） |
+| PeripheralHUD | 将HUD移动到周边视野中，让你可以一目了然地查看连击、得分等。 |
+| SpeecilTweaks | 根据你的喜好对游戏做一些调整 |
