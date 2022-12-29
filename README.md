@@ -89,3 +89,19 @@
 | Adblock | 广告屏蔽（移除促销曲包按钮） |
 | PeripheralHUD | 将HUD移动到周边视野中，让你可以一目了然地查看连击、得分等。 |
 | SpeecilTweaks | 根据你的喜好对游戏做一些调整 |
+| Qubes | 在任意位置放置漂浮的方块 |
+| PauseRemapper | 更改暂停键位置 |
+| ImageFactory | 在游戏中放置自定义图片`/ModData/游戏/Mods/ImageFactory/Images/` |
+| SessionQombo | 让连击计数器在关卡加载中保持不变的Mod |
+| TimeFailed | 在你失败时显示是第几次失败 |
+| CrashInfo | 崩溃信息，显示来自CrashReporter的近期崩溃回溯 |
+| NoPlayBeatSaber | **禁用所有的Play按钮**，恶搞Mod，不建议安装 |
+| FailButton | 失败按钮，可以在暂停菜单中一键失败，可以用于看回放 |
+| QuestDiscordRPC | 将你正在玩BeatSaber这一状态展示到Discord状态 |
+| Snowy | 从名字来看是下雪用的，作者没写介绍也没给GitHub链接 |
+| ComboSplitter | 将连击数计数拆分为双手单独计数 |
+| Vent | 一键退掉游戏并启动amongus vr（如果已安装）的mod |
+| BSNightcoreQuest | 在不同的速度上移除高音补偿，让歌曲听起来像夜曲（取决于速度） |
+| ScoreQolour | 当你拿到一定分数时，更新你的方块、墙壁、炸弹颜色 |
+| PitchBlaq | 完全禁用灯光与频谱图（如果有），达到类似纯黑背景。 |
+| Colorama | 自定义菜单颜色、雾化设置和其他美化相关选项 |
